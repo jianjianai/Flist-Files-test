@@ -1,0 +1,17 @@
+{
+  "users": {
+    "passwordSalt": "UD1u5MoyKGqZlOPe",
+    "visitorPermissions": [
+      "read"
+    ],
+    "users": [
+      {
+        "userName": "root",
+        "passwordHash": "e2b5eaa73260110a8fe27729267324de73721635d612d44e136bc52825fc5032",
+        "permissions": [
+          "read"
+        ]
+      }
+    ]
+  }
+}
