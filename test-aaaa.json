@@ -1,13 +1,13 @@
 {
   "users": {
-    "passwordSalt": "dZhSuSBav1yjWYWX",
+    "passwordSalt": "nNJudge3D9RN9CAV",
     "visitorPermissions": [
       "read"
     ],
     "users": [
       {
         "userName": "root",
-        "passwordHash": "4b93ca8fb7267fce02fa399b235c19c16bda2c87039798e88d7b8e0c0d93c6a8",
+        "passwordHash": "04ad90118785244db99593b09db40abba274777e967e45aa971ea04d19c105b2",
         "permissions": [
           "read"
         ]
