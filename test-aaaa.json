@@ -1,20 +1,3 @@
 {
-  "users": {
-    "passwordSalt": "mmlVGtgPKs0wM5Uc",
-    "visitorPermissions": [
-      "read"
-    ],
-    "users": [
-      {
-        "userName": "root",
-        "passwordHash": "e1aeec9f9f93e41605570fa370f2a59c62aae536aa100c61be498fc769371485",
-        "permissions": [
-          "read"
-        ]
-      }
-    ]
-  },
-  "authorization": {
-    "effectiveTime": 14400
-  }
+
 }
