@@ -20,7 +20,7 @@
   "drives":[
     {
       "path":"/",
-      "name":"github-repositorie-file",
+      "name":"github-repositorie",
       "args":["jianjianai","Flist-Files-test","main","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"]
     }
   ]
